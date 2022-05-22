@@ -26,7 +26,6 @@ newImage('assets/sword.png', 500, 405)
 newImage('assets/sheild.png', 165, 185)
 newImage('assets/staff.png', 600, 100)
 
-
 let greenCharacter = document.createElement('img')
 greenCharacter.src = 'assets/green-character.gif'
 greenCharacter.style.position = 'fixed'
